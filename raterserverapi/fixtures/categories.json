@@ -1,0 +1,72 @@
+[
+    {
+        "model": "raterserverapi.category",
+        "pk": 1,
+        "fields": {
+            "type": "Strategy"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 2,
+        "fields": {
+            "type": "Dice"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 3,
+        "fields": {
+            "type": "Card"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 4,
+        "fields": {
+            "type": "Miniature"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 5,
+        "fields": {
+            "type": "Deck Building"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 6,
+        "fields": {
+            "type": "Roll Playing"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 7,
+        "fields": {
+            "type": "Sports"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 8,
+        "fields": {
+            "type": "Adventure"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 9,
+        "fields": {
+            "type": "Cooperative"
+        }
+    },
+    {
+        "model": "raterserverapi.category",
+        "pk": 10,
+        "fields": {
+            "type": "Battle"
+        }
+    }
+]

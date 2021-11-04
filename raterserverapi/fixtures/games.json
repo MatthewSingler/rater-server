@@ -1,0 +1,41 @@
+[
+    {
+        "model": "raterserverapi.game",
+        "pk": 1,
+        "fields": {
+            "title": "Scratch Golf",
+            "description": "Hit em' straight and have fun",
+            "designer": "BirdieBots",
+            "number_of_players": 2,
+            "time_to_play": 1,
+            "age_recommendation": 4,
+            "release_year": 2020
+        }
+    },
+    {
+        "model": "raterserverapi.game",
+        "pk": 2,
+        "fields": {
+            "title": "HockeyNight",
+            "description": "Skate fast and shoot the puck",
+            "designer": "FanBoys",
+            "number_of_players": 4,
+            "time_to_play": 30,
+            "age_recommendation": 6,
+            "release_year": 2021
+        }
+    },
+    {
+        "model": "raterserverapi.game",
+        "pk": 3,
+        "fields": {
+            "title": "Bluff City",
+            "description": "Hold em' or fold em'",
+            "designer": "Vegas",
+            "number_of_players": 6,
+            "time_to_play": 1,
+            "age_recommendation": 10,
+            "release_year": 2020
+        }
+    }
+]
