@@ -1,0 +1,18 @@
+[
+    {
+        "model": "raterserverapi.player",
+        "pk": 1,
+        "fields": {
+            "user_name": "BigShow",
+            "user": 1
+        }
+    },
+    {
+        "model": "raterserverapi.player",
+        "pk": 2,
+        "fields": {
+            "user_name": "HostessWTheMostest",
+            "user": 2
+        }
+    }
+]
